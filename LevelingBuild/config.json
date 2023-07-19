@@ -1,0 +1,46 @@
+[
+    {
+        "image_path": "C:/Users/Owner/Documents/Projects/Games/DiabloIV/BarbarianLevelingBuild/Images/ReferenceImgs/RI1.png",
+        "key": "1",
+        "region": [
+            1246, 
+            945,
+            120,
+            120
+        ]
+    },
+    {
+        "image_path": "C:/Users/Owner/Documents/Projects/Games/DiabloIV/BarbarianLevelingBuild/Images/ReferenceImgs/RI2.png",
+        "key": "q",
+        "region": [
+            544,
+            951,
+            120,
+            120
+        ]
+    },
+    {
+        "image_path": "C:/Users/Owner/Documents/Projects/Games/DiabloIV/BarbarianLevelingBuild/Images/ReferenceImgs/RI3.png",
+        "key": "l",
+        "region": [
+            1246, 
+            945,
+            120,
+            120
+        ]
+    },
+    {
+        "image_path": "C:/Users/Owner/Documents/Projects/Games/DiabloIV/BarbarianLevelingBuild/Images/ReferenceImgs/RI4.png",
+        "key": "l",
+        "region": [
+            896, 377, 520, 520
+        ]
+    },
+    {
+        "image_path": "C:/Users/Owner/Documents/Projects/Games/DiabloIV/BarbarianLevelingBuild/Images/ReferenceImgs/RI4.png",
+        "key": "3",
+        "region": [
+            896, 377, 520, 520
+        ]
+    }
+]
